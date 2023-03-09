@@ -1,6 +1,6 @@
 pkgbase = emercoin-bin
 	pkgdesc = Emercoin is a digital currency and blockchain service platform.
-	pkgver = 0.7.11
+	pkgver = 0.7.12
 	pkgrel = 1
 	url = http://emercoin.com/
 	install = emercoin.install
@@ -15,7 +15,7 @@ pkgbase = emercoin-bin
 	depends = protobuf
 	provides = emercoin
 	conflicts = emercoin
-	source_x86_64 = https://github.com/emercoin/emercoin/releases/download/v0.7.11emc/emercoin-0.7.11-x86_64-linux-gnu.tar.bz2
+	source_x86_64 = https://github.com/emercoin/emercoin/releases/download/v0.7.12emc/emercoin-0.7.12-x86_64-linux-gnu.tar.bz2
 	source_x86_64 = emercoin.install
 	source_x86_64 = emercoind.service
 	source_x86_64 = emc48.png

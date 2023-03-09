@@ -1,5 +1,5 @@
 pkgname=emercoin-bin
-pkgver=0.7.11
+pkgver=0.7.12
 pkgrel=1
 pkgdesc="Emercoin is a digital currency and blockchain service platform."
 arch=('x86_64')
